@@ -1,0 +1,6 @@
+interface:
+  display_name: "重庆口播封面生成"
+  short_description: "生成重庆房产口播视频封面三件套"
+  default_prompt: "Use $cq-koubo-fengmian to generate three Chongqing real estate talking-head video cover templates."
+policy:
+  allow_implicit_invocation: true

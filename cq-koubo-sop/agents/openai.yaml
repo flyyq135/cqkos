@@ -1,0 +1,6 @@
+interface:
+  display_name: "重庆区域口播运营落地包"
+  short_description: "生成重庆区域口播运营Word和Excel完整落地包"
+  default_prompt: "Use $cq-koubo-sop to build a Chongqing regional talking-head video operation package."
+policy:
+  allow_implicit_invocation: true
