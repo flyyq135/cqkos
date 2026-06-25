@@ -1,4 +1,0 @@
-interface:
-  display_name: "房产小红书-分析类型笔记"
-  short_description: "生成重庆房产研究型选题、图文、口播与内容日历"
-  default_prompt: "使用 $chongqing-real-estate-xhs-content 为重庆房产账号生成一套合规、可执行的分析类型小红书笔记。"
